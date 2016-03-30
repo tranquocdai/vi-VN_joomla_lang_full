@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.0">
+	<name>Vietnamese Language Pack</name>
+	<packagename>vi-VN</packagename> 
+	<version>3.5.1</version> 
+	<creationDate>December 2013</creationDate> 
+	<author>Vietnamese Translation Team</author> 
+	<authorEmail>mr.tranquocdai@gmail.com</authorEmail> 
+	<authorUrl>http://tranquocdai.com</authorUrl>
+	<copyright>Copyright (C) 2016 tranquocdai.com and Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url></url>
+	<packager>Joomla! Vietnamese</packager>
+	<packagerurl>tranquocdai.com</packagerurl>
+	<description>3.5.0 Joomla Vietnamese Language Package</description>
+	<files>
+		<file type="language" client="site" id="vi-VN">site</file>
+		<file type="language" client="administrator" id="vi-VN">admin</file>
+	</files>
+	<updateservers>
+	    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.tranquocdai.com/language/vi-VN_details.xml</server>
+	</updateservers>
+</extension>
